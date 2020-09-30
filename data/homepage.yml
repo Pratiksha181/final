@@ -21,7 +21,7 @@ skill:
       color : "#fdb157"
       
     - title : "Data Science using R"
-      progress : "60%"
+      progress : "90%"
       color : "#9473e6"
       
     - title : "C++"

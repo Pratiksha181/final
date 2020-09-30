@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://megha.netlify.app/"
+baseURL = "https://prat.netlify.app/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"

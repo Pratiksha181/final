@@ -93,10 +93,10 @@ testimonial:
   enable : true
   title : "Acknowledgement"
   item:
-    - name : ""
+    - name: "  "
       image : "images/testimonial/logo.png"
-      designation : "CEO, Funder"
-      content : ""
+      designation: " "
+      content : "I would like to thank Softanbees for guiding me throughout the entire course, and for making me understand all the concepts thoroughly. I would like to extend my gratitude to Avijit Mallick Sir who guided me with his enormous experience in technical field, Bratin Das Sir and Ankit Malik Sir who taught me the basics, Sankhadeep Dutta and Rishikesh Chakraborty for technical assistance and Surya Ghosh Sir for constant support and personal development. Thanks for your great support and guidance."
 
 # client logo slider
 clients_logo_slider:

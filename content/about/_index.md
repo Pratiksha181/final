@@ -8,4 +8,4 @@ title: About
 
 
 I am currently pursuing my B.Sc. in Statistics while parallelly learning data science using R. An avid learner and active in different co-curriculars. 
-          I love to solve problems and implementing it on my own simpler way. I have knowledge in Data Science, Machine Learning and Application Development. I currently learning Web Development.
+          I love to solve problems and implementing it on my own simpler way. I have knowledge in Data Science, Machine Learning and Application Development. I am currently learning Web Development using shiny and flex framework.

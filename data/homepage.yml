@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Crafting experiences and seeking to make the complex clear & beautiful. I am currently pursuing Bachelors in Statistics Honours. I love to solve problems and implementing it on my own simpler way. I have knowledge in Data Science, Machine Learning and Application Development. I currently learning Web Development."
+  content : "Crafting experiences and seeking to make the complex clear & beautiful. I am currently pursuing Bachelors in Statistics Honours. I love to solve problems and implementing it on my own simpler way. I have knowledge in Data Science, Machine Learning and Application Development."
   button:
     enable : true
     label : "know more"
@@ -17,14 +17,14 @@ skill:
   title : "Skills"
   item:
     - title : "Web Development"
-      progress : "90%"
+      progress : "87%"
       color : "#fdb157"
       
     - title : "Data Science using R"
-      progress : "90%"
+      progress : "89%"
       color : "#9473e6"
       
-    - title : "C++"
+    - title : "C"
       progress : "80%"
       color : "#bdecf6"
       

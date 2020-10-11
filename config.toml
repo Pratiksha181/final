@@ -64,7 +64,7 @@ description = "Hi!This is my website."
 # google analytics
 google_analytics_id = "" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [Pratiksha](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 website by [Pratiksha](https://prat.netlify.app/)"
 
 
 # preloader

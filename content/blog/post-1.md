@@ -2,7 +2,7 @@
 date: "2020-09-30T12:14:34+05:00"
 description: This is meta description.
 draft: false
-image: images/blog/75.jpg
+image: images/blog/751.jpg
 title: Prediction using logistic Regression in R
 ---
  
